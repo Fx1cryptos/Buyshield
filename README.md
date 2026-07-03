@@ -5,7 +5,7 @@
 BuyShield is a secure escrow marketplace platform that protects buyers and sellers during online transactions. Instead of sending money directly to a seller, payments are securely held by BuyShield until the buyer confirms that the correct item has been received in the expected condition.
 
 Our mission is to eliminate online shopping scams and build trust in digital commerce.
-
+Logo cid: bafybeid5wshamuhxzalh6gprxsiuh2f7gpg3p3vb4mo545jyq7e7rj43eu
 ---
 
 # 🌍 Vision
